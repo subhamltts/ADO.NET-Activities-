@@ -1,0 +1,5 @@
+C:\Users\Hp\Desktop\C# GENESIS\ADO\strprocd\strproDAL\bin\Debug\strproDAL.dll
+C:\Users\Hp\Desktop\C# GENESIS\ADO\strprocd\strproDAL\bin\Debug\strproDAL.pdb
+C:\Users\Hp\Desktop\C# GENESIS\ADO\strprocd\strproDAL\obj\Debug\strproDAL.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\C# GENESIS\ADO\strprocd\strproDAL\obj\Debug\strproDAL.dll
+C:\Users\Hp\Desktop\C# GENESIS\ADO\strprocd\strproDAL\obj\Debug\strproDAL.pdb

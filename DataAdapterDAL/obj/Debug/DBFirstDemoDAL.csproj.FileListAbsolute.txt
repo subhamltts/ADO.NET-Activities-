@@ -1,0 +1,16 @@
+C:\Users\tejas\source\repos\DBFirstDemoDAL\obj\Debug\DBFirstDemoDAL.csproj.AssemblyReference.cache
+C:\Users\tejas\source\repos\DBFirstDemoDAL\obj\Debug\DBFirstDemoDAL.csproj.CoreCompileInputs.cache
+C:\Users\tejas\source\repos\DBFirstDemoDAL\bin\Debug\DBFirstDemoDAL.dll
+C:\Users\tejas\source\repos\DBFirstDemoDAL\bin\Debug\DBFirstDemoDAL.pdb
+C:\Users\tejas\source\repos\DBFirstDemoDAL\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\tejas\source\repos\DBFirstDemoDAL\bin\Debug\System.Security.AccessControl.dll
+C:\Users\tejas\source\repos\DBFirstDemoDAL\bin\Debug\System.Security.Permissions.dll
+C:\Users\tejas\source\repos\DBFirstDemoDAL\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\tejas\source\repos\DBFirstDemoDAL\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\tejas\source\repos\DBFirstDemoDAL\bin\Debug\System.Security.AccessControl.xml
+C:\Users\tejas\source\repos\DBFirstDemoDAL\bin\Debug\System.Security.Permissions.xml
+C:\Users\tejas\source\repos\DBFirstDemoDAL\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\tejas\source\repos\DBFirstDemoDAL\obj\Debug\DBFirstDemoDAL.csproj.CopyComplete
+C:\Users\tejas\source\repos\DBFirstDemoDAL\obj\Debug\DBFirstDemoDAL.dll
+C:\Users\tejas\source\repos\DBFirstDemoDAL\obj\Debug\DBFirstDemoDAL.pdb
+C:\Users\tejas\source\repos\DBFirstDemoDAL\bin\Debug\DBFirstDemoDAL.dll.config

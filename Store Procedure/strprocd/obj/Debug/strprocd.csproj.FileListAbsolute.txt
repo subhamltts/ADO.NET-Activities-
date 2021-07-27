@@ -1,0 +1,10 @@
+C:\Users\Hp\Desktop\C# GENESIS\ADO\strprocd\strprocd\bin\Debug\strprocd.exe.config
+C:\Users\Hp\Desktop\C# GENESIS\ADO\strprocd\strprocd\bin\Debug\strprocd.exe
+C:\Users\Hp\Desktop\C# GENESIS\ADO\strprocd\strprocd\bin\Debug\strprocd.pdb
+C:\Users\Hp\Desktop\C# GENESIS\ADO\strprocd\strprocd\bin\Debug\strproDAL.dll
+C:\Users\Hp\Desktop\C# GENESIS\ADO\strprocd\strprocd\bin\Debug\strproDAL.pdb
+C:\Users\Hp\Desktop\C# GENESIS\ADO\strprocd\strprocd\obj\Debug\strprocd.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\C# GENESIS\ADO\strprocd\strprocd\obj\Debug\strprocd.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\C# GENESIS\ADO\strprocd\strprocd\obj\Debug\strprocd.csproj.CopyComplete
+C:\Users\Hp\Desktop\C# GENESIS\ADO\strprocd\strprocd\obj\Debug\strprocd.exe
+C:\Users\Hp\Desktop\C# GENESIS\ADO\strprocd\strprocd\obj\Debug\strprocd.pdb

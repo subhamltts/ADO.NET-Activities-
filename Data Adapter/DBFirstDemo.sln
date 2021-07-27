@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBFirstDemo", "DBFirstDemo.csproj", "{58B99294-8946-422A-955A-20961B42261B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBFirstDemoDAL", "..\DBFirstDemoDAL\DBFirstDemoDAL.csproj", "{6BC3F2DD-77EE-4EA0-A485-9248FC79A6AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58B99294-8946-422A-955A-20961B42261B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58B99294-8946-422A-955A-20961B42261B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58B99294-8946-422A-955A-20961B42261B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58B99294-8946-422A-955A-20961B42261B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BC3F2DD-77EE-4EA0-A485-9248FC79A6AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BC3F2DD-77EE-4EA0-A485-9248FC79A6AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BC3F2DD-77EE-4EA0-A485-9248FC79A6AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BC3F2DD-77EE-4EA0-A485-9248FC79A6AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B622B5D7-F15D-4B2D-9B28-9D602A615E8A}
+	EndGlobalSection
+EndGlobal
