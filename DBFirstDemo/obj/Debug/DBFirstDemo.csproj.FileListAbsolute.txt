@@ -1,0 +1,22 @@
+C:\Users\tejas\source\repos\DBFirstDemo\bin\Debug\DBFirstDemo.exe.config
+C:\Users\tejas\source\repos\DBFirstDemo\bin\Debug\DBFirstDemo.exe
+C:\Users\tejas\source\repos\DBFirstDemo\bin\Debug\DBFirstDemo.pdb
+C:\Users\tejas\source\repos\DBFirstDemo\obj\Debug\DBFirstDemo.csproj.AssemblyReference.cache
+C:\Users\tejas\source\repos\DBFirstDemo\obj\Debug\DBFirstDemo.csproj.CoreCompileInputs.cache
+C:\Users\tejas\source\repos\DBFirstDemo\obj\Debug\DBFirstDemo.exe
+C:\Users\tejas\source\repos\DBFirstDemo\obj\Debug\DBFirstDemo.pdb
+C:\Users\tejas\source\repos\DBFirstDemo\bin\Debug\DBFirstDemoDAL.dll
+C:\Users\tejas\source\repos\DBFirstDemo\bin\Debug\DBFirstDemoDAL.pdb
+C:\Users\tejas\source\repos\DBFirstDemo\obj\Debug\DBFirstDemo.csproj.CopyComplete
+C:\Users\tejas\source\repos\DBFirstDemo\bin\Debug\DBFirstDemoDAL.dll.config
+C:\Users\Hp\Desktop\New folder (2)\ProjectX\ProjectX\DBFirstDemo\bin\Debug\DBFirstDemo.exe.config
+C:\Users\Hp\Desktop\New folder (2)\ProjectX\ProjectX\DBFirstDemo\bin\Debug\DBFirstDemo.exe
+C:\Users\Hp\Desktop\New folder (2)\ProjectX\ProjectX\DBFirstDemo\bin\Debug\DBFirstDemo.pdb
+C:\Users\Hp\Desktop\New folder (2)\ProjectX\ProjectX\DBFirstDemo\bin\Debug\DBFirstDemoDAL.dll
+C:\Users\Hp\Desktop\New folder (2)\ProjectX\ProjectX\DBFirstDemo\bin\Debug\DBFirstDemoDAL.pdb
+C:\Users\Hp\Desktop\New folder (2)\ProjectX\ProjectX\DBFirstDemo\bin\Debug\DBFirstDemoDAL.dll.config
+C:\Users\Hp\Desktop\New folder (2)\ProjectX\ProjectX\DBFirstDemo\obj\Debug\DBFirstDemo.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\New folder (2)\ProjectX\ProjectX\DBFirstDemo\obj\Debug\DBFirstDemo.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\New folder (2)\ProjectX\ProjectX\DBFirstDemo\obj\Debug\DBFirstDemo.csproj.CopyComplete
+C:\Users\Hp\Desktop\New folder (2)\ProjectX\ProjectX\DBFirstDemo\obj\Debug\DBFirstDemo.exe
+C:\Users\Hp\Desktop\New folder (2)\ProjectX\ProjectX\DBFirstDemo\obj\Debug\DBFirstDemo.pdb
